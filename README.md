@@ -22,3 +22,8 @@ To access the administrative control center instantly, secure system access keys
 1. Clone the repository:
    ```bash
    git clone [https://github.com/tahabelkacemi/Handyman-marketplace-frontend.git](https://github.com/tahabelkacemi/Handyman-marketplace-frontend.git)
+
+   ---
+
+### 🔗 Backend Repository
+> 💡 **Note:** This client UI requires the active companion backend server to process data. You can access the official API source code and setup instructions here: **[KhedmaNet Backend Engine](https://github.com/tahabelkacemi/Handyman-marketplace-backend)**
